@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body div:nth-child(2)
+{
+    padding: 2em;
+}
+
+button{
+    padding: 1em 1em;
+    border-radius: 5px;
+    border: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body div:nth-child(4)
+{
+    padding: 2em;
+}
+
+input{
+    padding: 1em;
+}
+
